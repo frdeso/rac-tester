@@ -1,2 +1,2 @@
 # rac-tester
-Python script to practice the Amateur Radio Canadian basic exam
+Python script to practice the Canadian Amateur Radio basic certification exam
